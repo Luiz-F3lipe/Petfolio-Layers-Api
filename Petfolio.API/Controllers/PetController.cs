@@ -10,7 +10,7 @@ namespace Petfolio.API.Controllers
     public class PetController : ControllerBase
     {
         [HttpPost]
-        [ProducesResponseType(typeof(ResponseRegisterPetJson),StatusCodes.Status201Created)]
+        [ProducesResponseType(typeof(ResponseRegisterPetJson), StatusCodes.Status201Created)]
         public IActionResult Register([FromBody] RequestRegisterPetJson request)
         {
             var response = new RegisterPetUseCase().Execute(request);
