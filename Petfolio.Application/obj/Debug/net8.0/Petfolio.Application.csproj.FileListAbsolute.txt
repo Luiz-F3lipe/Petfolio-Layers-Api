@@ -13,3 +13,4 @@
 /home/plasoftcloud/www/cs/Petfolio/Petfolio.Application/obj/Debug/net8.0/refint/Petfolio.Application.dll
 /home/plasoftcloud/www/cs/Petfolio/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.pdb
 /home/plasoftcloud/www/cs/Petfolio/Petfolio.Application/obj/Debug/net8.0/ref/Petfolio.Application.dll
+/home/plasoftcloud/www/cs/Petfolio/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.sourcelink.json
