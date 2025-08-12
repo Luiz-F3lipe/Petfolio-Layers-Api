@@ -13,7 +13,6 @@ namespace Petfolio.API.Controllers
         [ProducesResponseType(typeof(ResponseRegisterPetJson),StatusCodes.Status201Created)]
         public IActionResult Register([FromBody] RequestRegisterPetJson request)
         {
-            // teste
             var response = new RegisterPetUseCase().Execute(request);
             return Created(string.Empty, response);
         }
