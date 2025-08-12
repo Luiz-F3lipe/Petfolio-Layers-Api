@@ -1,0 +1,11 @@
+/home/plasoftcloud/www/cs/Petfolio/Petfolio.Communication/bin/Debug/net8.0/Petfolio.Communication.deps.json
+/home/plasoftcloud/www/cs/Petfolio/Petfolio.Communication/bin/Debug/net8.0/Petfolio.Communication.dll
+/home/plasoftcloud/www/cs/Petfolio/Petfolio.Communication/bin/Debug/net8.0/Petfolio.Communication.pdb
+/home/plasoftcloud/www/cs/Petfolio/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/home/plasoftcloud/www/cs/Petfolio/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.AssemblyInfoInputs.cache
+/home/plasoftcloud/www/cs/Petfolio/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.AssemblyInfo.cs
+/home/plasoftcloud/www/cs/Petfolio/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.csproj.CoreCompileInputs.cache
+/home/plasoftcloud/www/cs/Petfolio/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.dll
+/home/plasoftcloud/www/cs/Petfolio/Petfolio.Communication/obj/Debug/net8.0/refint/Petfolio.Communication.dll
+/home/plasoftcloud/www/cs/Petfolio/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.pdb
+/home/plasoftcloud/www/cs/Petfolio/Petfolio.Communication/obj/Debug/net8.0/ref/Petfolio.Communication.dll
